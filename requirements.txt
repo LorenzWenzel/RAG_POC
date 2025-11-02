@@ -1,0 +1,19 @@
+# --- Core Framework ---
+streamlit>=1.38
+python-dotenv>=1.0
+
+# --- Azure SDKs ---
+azure-core>=1.30.0
+azure-ai-documentintelligence>=1.0.0b4
+azure-search-documents>=11.5.0
+
+# --- OpenAI SDK ---
+openai>=1.45.0    # unterstützt AzureOpenAI()
+
+# --- Data & Utils ---
+pydantic>=2.9.0
+httpx>=0.27.0
+aiohttp>=3.10.0
+
+# --- Typing / Extras (keine Runtime-Abhängigkeiten, aber hilfreich) ---
+typing-extensions>=4.12.0

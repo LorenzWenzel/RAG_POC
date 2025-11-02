@@ -1,0 +1,14 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: rag-streamlit:latest
+    env_file: .env
+    ports:
+      - "8502:8502"
+    volumes:
+      # persistente Ordner von deinem Host ins Container-Workingdir /app
+      - ./ExternalFiles:/app/ExternalFiles
+      - ./Input:/app/Input
+    restart: unless-stopped
