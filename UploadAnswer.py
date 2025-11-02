@@ -59,7 +59,7 @@ AZURE_OPENAI_API_KEY  = require("AZURE_OPENAI_API_KEY")
 EMBEDDING_DEPLOYMENT  = require("EMBEDDING_DEPLOYMENT")
 EMBED_API_VERSION     = require("EMBED_API_VERSION")
 
-# =================== Azure AI Search ===================
+# =================== Azure AI Search ==================
 SEARCH_ENDPOINT     = require("AI_SEARCH_ENDPOINT")
 SEARCH_ADMIN_KEY    = require("AI_SEARCH_ADMIN_KEY")
 SEARCH_INDEX_NAME   = "uploadchunks"   # bleibt konstant im Code
