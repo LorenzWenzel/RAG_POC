@@ -98,7 +98,7 @@ Die Startseite bietet zwei Hauptfunktionen:
 
 ### 🔧 Voraussetzungen
 - Docker & Docker Compose installiert  
-- `.env` Datei mit den benötigten API Keys und Einstellungen vorhanden  
+- `.env` Datei mit den benötigten API Keys und Einstellungen vorhanden, wie in .env_template
 
 ### 📂 Vorbereitung
 1. Lege deine zu analysierenden Dateien im Ordner `Input/` ab.  
