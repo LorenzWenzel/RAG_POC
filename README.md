@@ -1,4 +1,4 @@
-# 🧠 POC eines RAG System – DSGVO-konforme Vertragsanalyse
+# POC eines RAG System – DSGVO-konforme Vertragsanalyse
 
 Dieses Projekt ist ein **Retrieval-Augmented Generation (RAG) System**, das auf **Streamlit** basiert und vollständig **DSGVO-konform** arbeitet.  
 Es ermöglicht sowohl die **Analyse** als auch den **interaktiven Chat** mit hochgeladenen Dokumenten – lokal oder containerisiert via **Docker**.
