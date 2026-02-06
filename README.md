@@ -18,11 +18,23 @@ Die Startseite bietet zwei Hauptfunktionen:
 
 ## 🎥 Demo-Videos
 
-**RAG Chat**  
+**With Watermark**
+
+**RAG Chat** 
+[▶️ Rag_Chat.mov](https://github.com/user-attachments/assets/9b4c89d3-3dc3-4ac4-a5ec-2cb781880bc9)
+
+**Upload Chat**  
+[▶️ UploadChat.mov]()
+
+
+**original video**
+
+**RAG Chat** 
 [▶️ Rag_Chat.mov](demo/Rag_Chat.mov)
 
 **Upload Chat**  
 [▶️ UploadChat.mov](demo/UploadChat.mov)
+
 
 ---
 
