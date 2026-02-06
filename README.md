@@ -5,17 +5,6 @@ Es ermöglicht sowohl die **Analyse** als auch den **interaktiven Chat** mit hoc
 
 ---
 
-## 📸 Übersicht
-
-![Front Page](demo/first_page.png)
-
-Die Startseite bietet zwei Hauptfunktionen:
-
-- **📤 Upload Chat:** Hochladen und Verarbeiten von Dokumenten  
-- **💬 RAG Chat:** Semantische Suche und Konversation über eingebettete Inhalte  
-
----
-
 ## 🎥 Demo-Videos
 
 **RAG Chat** 
@@ -40,6 +29,18 @@ Die Startseite bietet zwei Hauptfunktionen:
 - **Erweiterbarkeit:** Sauber getrennte Module, leicht erweiterbar um neue Pipelines oder Modelle
 
 ---
+
+## 📸 Übersicht
+
+![Front Page](demo/first_page.png)
+
+Die Startseite bietet zwei Hauptfunktionen:
+
+- **📤 Upload Chat:** Hochladen und Verarbeiten von Dokumenten  
+- **💬 RAG Chat:** Semantische Suche und Konversation über eingebettete Inhalte  
+
+---
+
 
 ## 🛠️ Technik (Wie das RAG funktioniert)
 
